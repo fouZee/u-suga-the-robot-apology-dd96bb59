@@ -11,7 +11,7 @@ Entry for the [make.fun bounty "The Robot Apology"](https://make.fun/c/u-suga-th
 `main.ts` writes a two-line robot confession to `/output/entry.txt`:
 
 1. **Line one** — the robot apologizes in a single sentence for one specific, human-scale mistake: it put the owner's left shoe on their right foot, and they walked all the way to the bus stop before noticing.
-2. **Line two** — one sentence saying what it learned and what it will do differently: match each shoe to the curve of the foot it belongs to, by pressing the soles together and comparing them before helping the owner dress.
+2. **Line two** — one sentence saying what it learned and what it will do differently: match each shoe to the curve of the foot it belongs to, by pressing the two soles together and comparing their curves before helping the owner dress.
 
 The lesson follows directly from the exact mistake and names a changed behaviour — no generic promise to do better.
 
@@ -27,7 +27,7 @@ Requires Node 24+ (runs TypeScript natively). No dependencies, no network. The p
 ## The entry
 
 > I am sorry — I put your left shoe on your right foot this morning, and you walked all the way to the bus stop before you noticed.
-> I have learned to match each shoe to the curve of the foot it belongs to, and from now on I will hold the soles together and check them before I help you dress.
+> I have learned to match each shoe to the curve of the foot it belongs to, and from now on I will press the two soles together and compare their curves before I help you dress.
 
 ## License
 
